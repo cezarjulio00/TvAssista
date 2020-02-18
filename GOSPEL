@@ -2,10 +2,19 @@
 <layoutype>thumbnail</layoutype>
  
 <item>
-<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]DEUS NÃO ESTÁ MORTO - UMA LUZ NA ESCURIDÃO[/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]CHANNEL[/COLOR][COLOR yellow]HD[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12P1bxPGhcDkLYFG6nRhtbxLS4DZ9s3Fp/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MwoZ4U8SGm7yIzfPFcTTbiiOYY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/gGBE24xD5NdMqvkJJEzP04jtFG9.jpg</fanart>
-<info>O pastor Dave responde à tragédia inimaginável de queimar sua igreja, localizada nos terrenos da universidade local.</info>
-<date>2018</date>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]O APOCALIPSE DE JOÃO [/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]CHANNEL[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mh1SuKdielyCyqIcJlvxoRBUBs4Xo87K/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/710qCguVwoL._SL1000_.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/cc/d9/2a/ccd92ab7443e40ec66de8802441249ae.jpg</fanart>
+<info>Filme que retrata o evangelho do apocalipse a Revelação de Jesus Cristo para a sua igreja. 90 d.C. O Imperador Romano Domitian lançou uma campanha bárbara contra os cristãos. Mantido como refém pelos romanos na ilha de Patmos, o velho apóstolo João luta para salvar a Cristandade da extinção, enviando cartas às comunidades cristãs. Determinada pela vontade de conhecer a última testemunha viva da paixão de Cristo, a jovem cristã Irene consegue ter acesso à cela de João. Confiando-lhe suas anotações escritas de suas visões, João implora a Irene para que espalhe a mensagem entre os cristãos. Estas visões formam o conteúdo do Livro das Revelações.</info>
+<date></date>
+</item>
+
+<item>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]A PAIXÃO DE CRISTO[/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]CHANNEL[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10T5TJtAzQjIT_UjkTEkijpsSeP9TKNT2/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFuLM1EaKhi1WNWiTjQ1HKIZ1Eg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mjSWFCMeBvzNQnVU7f3I2YZ8BNr.jpg</fanart>
+<info>Um retrato gráfico das últimas doze horas da vida de Jesus de Nazaré.</info>
+<date>2004</date>
 </item>

@@ -18,8 +18,17 @@
 <channel>
 <name>SÉRIES</name>
 <thumbnail>https://ia801407.us.archive.org/24/items/filmes_20200216/SERIES.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/cezarjulio00/TvAssista/master/SERIES%20BIBLICAS</externallink>
+<externallink>https://raw.githubusercontent.com/cezarjulio00/TvAssista/master/SERIES</externallink>
 <fanart>https://ia601508.us.archive.org/18/items/fanartseries_202002/fanart%20series.jpg</fanart>
+<info>
+
+
+<channels>
+<channel>
+<name>SÉRIES BIBLICAS</name>
+<thumbnail>https://ia801407.us.archive.org/24/items/filmes_20200216/SERIES.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/cezarjulio00/TvAssista/master/SERIES%20BIBLICAS</externallink>
+<fanart>https://d233bqaih2ivzn.cloudfront.net/500/1280x720.jpg</fanart>
 <info>
 
 

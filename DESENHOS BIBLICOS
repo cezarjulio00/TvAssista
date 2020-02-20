@@ -200,4 +200,48 @@
 <thumbnail>https://direct.rhapsody.com/imageserver/images/alb.389730038/500x500.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/eEaZEvpo4sQ/maxresdefault.jpg</fanart>
 </item>
+ 
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]TURMINHA DA GRAÇA[/B][/COLOR]</name>********************************************************************************
+
+
+<item>
+<title>[COLOR white][B]TURMINHA DA GRAÇA[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.spovo.com.br//media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/v/dvd-turminha-da-graca-vol.-14.jpg</thumbnail>
+<fanart>https://www.turminhadagraca.com.br/fun/fun__0_1513186851.jpg</fanart>
+</item>
+ 
+ item>
+<title>[COLOR white][B]TURMINHA DA GRAÇA[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.spovo.com.br//media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/v/dvd-turminha-da-graca-vol.-14.jpg</thumbnail>
+<fanart>https://www.turminhadagraca.com.br/fun/fun__0_1513186851.jpg</fanart>
+</item>
+ 
+ item>
+<title>[COLOR white][B]TURMINHA DA GRAÇA[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.spovo.com.br//media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/v/dvd-turminha-da-graca-vol.-14.jpg</thumbnail>
+<fanart>https://www.turminhadagraca.com.br/fun/fun__0_1513186851.jpg</fanart>
+</item>
+ 
+ item>
+<title>[COLOR white][B]TURMINHA DA GRAÇA[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.spovo.com.br//media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/v/dvd-turminha-da-graca-vol.-14.jpg</thumbnail>
+<fanart>https://www.turminhadagraca.com.br/fun/fun__0_1513186851.jpg</fanart>
+</item>
+ 
+ item>
+<title>[COLOR white][B]TURMINHA DA GRAÇA[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.spovo.com.br//media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/v/dvd-turminha-da-graca-vol.-14.jpg</thumbnail>
+<fanart>https://www.turminhadagraca.com.br/fun/fun__0_1513186851.jpg</fanart>
+</item>
 

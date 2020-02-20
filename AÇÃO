@@ -174,13 +174,23 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]NOME[/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]VELOZES E FURIOSOS[/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wlQwW8SPOtTcMsO1LpetBiQMyHrL31wf/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4So4OkqnjfOSBCCNd5uosMmQiB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jY9ef5nqY4xIIMu3yzW3qamUCoi.jpg</fanart>
+<info>Domenic Toretto é um corredor de rua de Los Angeles suspeito de planejar uma série de seqüestros de grandes montantes. Quando o policial disfarçado Brian O'Conner se infiltra na equipe iconoclasta de Toretto, ele se apaixona pela irmã de Toretto e deve escolher um lado: a gangue ou a polícia de Los Angeles.</info>
+<date>2001</date>
+</item>
+
+<item>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]VINGADORES GUERRA INFINITA[/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1v8G3FpXxx8ubib_cVFq44zmtdF69vY5M/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kbGO5mHPK7rh516MgAIJUQ9RvqD.jpg</fanart>
+<info>Enquanto os Vingadores e seus aliados continuam protegendo o mundo de ameaças grandes demais para qualquer herói, um novo perigo surgiu das sombras cósmicas: Thanos. Déspota da infâmia intergaláctica, seu objetivo é coletar todas as seis pedras do infinito, artefatos de poder inimaginável, e usá-las para infligir sua vontade distorcida a toda a realidade. Tudo o que os Vingadores lutaram levou até esse momento - o destino da Terra e da própria existência nunca foi tão incerto.</info>
 <date>2018</date>
 </item>
+
 
 
 .

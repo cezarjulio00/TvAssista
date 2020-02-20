@@ -93,12 +93,12 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]NOME[/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<date>2018</date>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]VELOZES E FURIOSOS 5[/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ht93e-T9r0jEInMFht8ztFppFxy-AAPh/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cA81CI8odKv5KHRUUzJbj83yN7c.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nL1Q0micYpF5nNkaI2ZNeLuOLGZ.jpg</fanart>
+<info>O ex-policial Brian O'Conner faz parceria com o ex-presidiário Dom Toretto no lado oposto da lei. Desde que Brian e Mia Toretto libertaram Dom da prisão, eles atravessaram muitas fronteiras para iludir as autoridades. Agora, encurralados no Rio de Janeiro, eles precisam fazer um último trabalho para ganhar sua liberdade.</info>
+<date>2011</date>
 </item>
 
 

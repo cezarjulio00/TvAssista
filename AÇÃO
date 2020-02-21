@@ -2,7 +2,7 @@
 <layoutype>thumbnail</layoutype>
  
 <item>
-<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]VELOZES E FURIOSOS - HOBSS E SHAW[/B][/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]VELOZES E FURIOSOS - HOBSS E SHAW[/B][/COLOR] [COLOR yellow][B]* [/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16H3zAPLdmuHqAgMXI43R7kWuz9fcI9Cc/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvpNZAQow5es1tSY6XW2jAZuPPG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/qAhedRxRYWZAgZ8O8pHIl6QHdD7.jpg</fanart>

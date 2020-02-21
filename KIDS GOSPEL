@@ -3,7 +3,7 @@
 <layoutype>thumbnail</layoutype>
  
 <item>
-<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]NOME[/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]NOME[/B][/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR] [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/116X7oDVxSuIXU7UigyRU_rvWQi80eUPc/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEbDvivUfsCupngKIfMJJ725eAD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/orpnKsu7t1CLDNYgzevgsz67xRq.jpg</fanart>

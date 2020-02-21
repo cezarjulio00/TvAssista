@@ -187,6 +187,174 @@
 <fanart>https://image.tmdb.org/t/p/original/dmPxRVOeqB5OWRexd1conkdrwam.jpg</fanart>
 </item>
  
+  <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]FLASH 2ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12TicyW2hIjtpmeQcnd0qJ1_ZkQFhI5na/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IMbT0-SYaNZVbGTXA5HE1NLtgOgofPRg/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CfxDck8I3cRrTAV_ghk9UzPIgBZfP_rD/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VJuV05Xtv24Mnhd8mtujOcJnCvu1RAT2/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eX6FGBLMgfjSLTHuVd-wUqVS8M24WWEx/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZHdpheKcsbEMDgm1-S0wJyJ8WS9bJoDR/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fNkkfPTjviIyHHl2kYMrRHo0E-LvgBo8/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1458G_LwcFnqDd1Dm-RZ7rcTyshHHdIhM/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13KCLYvunJ6LswUwKMbZ4bKQU-34lL7Hc/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wRBnMbl2DjQTyOt6NJddoZ6w4Rs3yiXT/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1R4r-iNSaP5szQMk25hcL6m4mO5uL590X/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/154AhIpnArkaUEj-96H_-qwWlBFphv-sS/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wPntsNqT0HqEtJM6JI4moq1XO_Mzc8rU/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15R3pMy7338lN1JG8ERAsZsCnapqalSmY/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CmpXKeBpUU6iJsL7sqeq4fSUdWZHjLUs/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AAIgLmT1jO3Li7W1ODh_YH21R6DdJIq8/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V2E3-XuKZHtwWGQFgMPmKDp85N2wWFgZ/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SVE7lm_Jf7pFYQwxCOvsJLe_dRZPjbiv/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1E35R6Wh-mZZyQtLhqmEdhb-Ui-o1fnmb/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 23[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vrFgQBRspsAcP7qZucqsA7bjQ9cUGKtI/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart>https://www.jakpost.travel/imgfiles/full/121/1212603/wallpaper-the-flash-serie.jpg</fanart>
+</item>
+ 
  
  <?xml version="1.0" encoding="UTF8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
@@ -368,5 +536,8 @@
 <thumbnail>https://http2.mlstatic.com/marvels-agents-of-shield-2-temporada-dublado-dvd-D_NQ_NP_387901-MLB20423440755_092015-F.jpg</thumbnail>
 <fanart>https://cabanadoleitor.com.br/wp-content/uploads/2015/03/03ce7e3f1d95df11ba039c699a4a.jpeg</fanart>
 </item>
+ 
+
+
 
 

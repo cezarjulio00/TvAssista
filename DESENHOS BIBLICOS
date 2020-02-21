@@ -245,19 +245,18 @@
 <fanart>https://www.turminhadagraca.com.br/fun/fun__0_1513186851.jpg</fanart>
 </item>
 
-.<?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
  
     <channels>
 </channels><channel>
-<name>[COLOR deeppink][B]A ESTRELA DE BELEM[/B][/COLOR]</name>********************************************************************************
+<name>[COLOR deeppink][B]A ESTRELA DE BELÉM[/B][/COLOR]</name>********************************************************************************
+
 
 <item>
 <title>[COLOR white][B]A ESTRELA DE BELÉM[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= https://drive.google.com/file/d/116X7oDVxSuIXU7UigyRU_rvWQi80eUPc/view</link>
-<thumbnail> https://br.web.img2.acsta.net/pictures/17/10/10/16/20/1219557.jpg</thumbnail>
-<fanart> https://nerdbreak.com.br/wp-content/uploads/2017/11/aeb_cartaz.regular_30cm_300dpi-C%C3%B3pia.jpg</fanart>
-<info>Um burro, uma ovelha, uma pomba, três camelos e alguns animais excêntricos tornam-se os heróis desconhecidos do primeiro Natal.</info>
-<date>2017</date>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/116X7oDVxSuIXU7UigyRU_rvWQi80eUPc/view</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/17/10/10/16/20/1219557.jpg</thumbnail>
+<fanart>https://nerdbreak.com.br/wp-content/uploads/2017/11/aeb_cartaz.regular_30cm_300dpi-C%C3%B3pia.jpg</fanart>
 </item>
 

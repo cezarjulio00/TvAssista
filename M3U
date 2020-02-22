@@ -1,6 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="POPO" group-title="CATEGORIA DO FILME EX: AÇÃO", +VELOZES E FURIOSOS
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/velozes-e-furiosos/images/a/aa/Velozes_e_Furiosos_-_Capa.jpg/revision/latest?cb=20180305235641&path-prefix=pt-br" group-title="AÇÃO", TV ASSISTA - VELOZES E FURIOSOS
 https://drive.google.com/open?id=1p2Io1yE1MaQV524VEej6DkUYIr-zv3Go
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/65/02/20106873.jpg" group-title="GOSPEL", TV ASSISTA - A PAIXÃO DE CRISTO - MEL GIBSON 
+https://drive.google.com/open?id=10T5TJtAzQjIT_UjkTEkijpsSeP9TKNT2
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/17/11/28/19/03/5043910.jpg" group-title="AVENTURA", TV ASSISTA - JUMANJI - BEM VINDO A SELVA
+https://drive.google.com/open?id=1NGXb1_TE6lBIdaG5aMNb1cADxrb8xpmO
+
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/17/09/29/21/15/4233147.jpg" group-title="SERIE DE AÇÃO", TV ASSITA - FLASH 1º TPRD 1º EP
+https://drive.google.com/open?id=1Io6K5ywDdAy-jnX3w5nIbICBCfTX8QVq
+
 
 #EXT

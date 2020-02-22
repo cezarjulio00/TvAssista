@@ -182,7 +182,7 @@
 
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 23[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14T82a_qVeAb8Evq8hGCvOCafw7KriAlA/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dmPxRVOeqB5OWRexd1conkdrwam.jpg</fanart>
 </item>

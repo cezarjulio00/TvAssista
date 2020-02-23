@@ -1,7 +1,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]*[/COLOR][COLOR red]FILMES[COLOR yellow]*[/COLOR][/COLOR]</name>
+<name>[COLOR yellow]FILMES[/COLOR]</name>
 <thumbnail>https://ia801407.us.archive.org/24/items/filmes_20200216/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/cezarjulio00/TvAssista/master/FILMES</externallink>
 <fanart>https://ia601508.us.archive.org/18/items/fanartseries_202002/fanart%20filmes.jpg</fanart>
@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>SÉRIES</name>
+<name>[COLOR yellow]SÉRIES[/COLOR]</name>
 <thumbnail>https://ia801407.us.archive.org/24/items/filmes_20200216/SERIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/cezarjulio00/TvAssista/master/SERIES</externallink>
 <fanart>https://ia601508.us.archive.org/18/items/fanartseries_202002/fanart%20series.jpg</fanart>
@@ -25,7 +25,7 @@
 
 <channels>
 <channel>
-<name>SÉRIES BIBLICAS</name>
+<name>[COLOR yellow]SÉRIES BIBLICAS[/COLOR]</name>
 <thumbnail>https://ia801407.us.archive.org/24/items/filmes_20200216/SERIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/cezarjulio00/TvAssista/master/SERIES%20BIBLICAS</externallink>
 <fanart>https://d233bqaih2ivzn.cloudfront.net/500/1280x720.jpg</fanart>
@@ -42,7 +42,7 @@
 
 <channels>
 <channel>
-<name>SÉRIES DESENHOS BIBLICOS</name>
+<name>[COLO yellow]SÉRIES DESENHOS BIBLICOS[/COLOR]</name>
 <thumbnail>https://ia601408.us.archive.org/6/items/thumbnaildesenho/thumbnail%20desenho.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/cezarjulio00/TvAssista/master/DESENHOS%20BIBLICOS%20SERIES</externallink>
 <fanart>https://ia601408.us.archive.org/6/items/thumbnaildesenho/fanart%20desenho.jpg</fanart>

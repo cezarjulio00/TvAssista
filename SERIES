@@ -768,4 +768,90 @@
 <fanart>https://image.tmdb.org/t/p/original/c6pDSZjrp07Lk9RNj6BM29P2Ibj.jpg</fanart>
 </item>
  
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]TITÃS 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YH2gt13-99idwaBaXg2NggzFZDcCSKPH/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/28/09/34/1699413.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k_2wAHhcc61L7n-2Al_pPWXWHvWiXrKV/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/28/09/34/1699413.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ExJsUPQcaTfhpRUaRHbolWZlLZq8XrXX/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/28/09/34/1699413.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GieNuGs-RNw9uQXl7Io7bobrKLHBpzzu/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/28/09/34/1699413.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1N-45wAdeHa2_77HzyNHI4o-gmRvuuZA0/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/28/09/34/1699413.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jSa6Mj3RY3DtPDhAgAtmTx4qvDvHC3t1/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/28/09/34/1699413.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IET_9-1vzcCu8-D7FFPg1AhbnBcBEGnp/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/28/09/34/1699413.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TkJ8fhhDT78RqCYO1uBUmm9iebB74cR6/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/28/09/34/1699413.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1m8h08pE2C4j3GxeOrc1HAXCtmhN4hkGd/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/28/09/34/1699413.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FfbS-o6yLPj-SuQsQ_YrREm9CmkIe_Mc/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/28/09/34/1699413.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rXXNKSKWTekIVZxzrBMN3k3OtdN81O-y/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/28/09/34/1699413.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
+</item>
+ 
+ 
+ 
  

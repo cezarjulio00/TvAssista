@@ -697,4 +697,75 @@
 <thumbnail>https://i.pinimg.com/originals/4b/4b/e5/4b4be59b56e2bcc24bcbe5e60aab28a6.jpg</thumbnail>
 <fanart>https://images.alphacoders.com/691/thumb-1920-691064.jpg</fanart>
 </item>
-. 
+
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]THE WITCHER 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18dP2IUnsuctPn-4w3FyMgjPOg7L29rWd/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/c6pDSZjrp07Lk9RNj6BM29P2Ibj.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zw9lRN_RI5MGNFUgHez22MB0yWSl3UQc/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/c6pDSZjrp07Lk9RNj6BM29P2Ibj.jpg</fanart>
+</item>
+ 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PP9TtvhbS1bFZ3IS6hPd0iCNnq3VPZmJ/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/c6pDSZjrp07Lk9RNj6BM29P2Ibj.jpg</fanart>
+</item>
+ 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KY1wMVZ9GxomraCAbivn84a8zFQgdzQg/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/c6pDSZjrp07Lk9RNj6BM29P2Ibj.jpg</fanart>
+</item>
+ 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PBbnuupoznqKcBhk2fReG3LxSxvEv3sl/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/c6pDSZjrp07Lk9RNj6BM29P2Ibj.jpg</fanart>
+</item>
+ 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12Ktfk_YfacdZekN_bnc9o3Tlzlcjth43/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/c6pDSZjrp07Lk9RNj6BM29P2Ibj.jpg</fanart>
+</item>
+ 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DbKjJgsMhX3rxOw3Br0TNS9n6xiabsjT/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/c6pDSZjrp07Lk9RNj6BM29P2Ibj.jpg</fanart>
+</item>
+ 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MgE-2Xzv6Rrk_EO04ktuPyp9hOA571yF/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/c6pDSZjrp07Lk9RNj6BM29P2Ibj.jpg</fanart>
+</item>
+ 
+ 

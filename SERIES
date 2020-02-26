@@ -1192,7 +1192,7 @@
 
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZKHBHzWExtBq43wcfK7JDwoh7xeM2tVc/view</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/ba/Legends_of_Tomorrow.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/C_T0DeZP4y4/maxresdefault.jpg</fanart>
 </item>
@@ -1301,5 +1301,330 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/ba/Legends_of_Tomorrow.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/C_T0DeZP4y4/maxresdefault.jpg</fanart>
 </item>
+ 
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]SMALLVILLE 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TR033g4Sj6A9XNSM0IWFraCQbwMJLe6f/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-8OBId6pl4z4anJskrjSxPLVL9nspyVa/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UgZDw9N0413Gj7Oo6pmtf-b0M6OgY-x3/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_5BzOGO7tTifTTy0s_MTC3-vEveQeEEV/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MVmfG6xxnxC5tTm1mlAKfbgXdTmWbIGT/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cC5MuAppLe16kMjNA-cDmv9httjbk3jR/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cKCdgIN5XQPTCTnYpMIKrmN451na7CAr/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vQG-6-c7lrsVJxEwVQuW9AilpDWKTZK5/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Es4nsC5zCzxQ2mm8mYDTV94qquGwcD08/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Bfzokp6cH1uvha4syardi8Si_dB9boeJ/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jUX-BfmFCXLyyLIcd9cFBi1IHrPBZSb6/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EJjCO4v_piFcdt2GF9-dOIKGqHOoYwFP/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HuZ-WaKeKeV4tsFY6ertA0g2fssrOAqH/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wcH9WzwjZbWO1PU15ihWbC0JmjXCcT4G/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+  <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NnY66jDzHnL50s9XIOt6LuN3KLpOyHef/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+  <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CFC1FsDkZKtv0zcYVkG3zu0l1a_s-ZP8/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+  <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jSKbrqim2mr-Es1gjmk70rvuYwwN7eGB/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+  <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hj-qHrQYEOMXO2uQilGOD4FgtcI8zhvQ/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+  <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hVDLB653i1-U8wcb0DA5S9FEyXWEsj3s/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+  <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xgV4frS0hYMl7loYa_Y9lalj5ld6IbMn/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+  <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ju89OPnK2yIShYCSuEHDen0zoGJ9q0re/view</link>
+<thumbnail>https://http2.mlstatic.com/smallville-1-temporada-dvd-D_NQ_NP_646525-MLB31270775914_062019-F.jpg</thumbnail>
+<fanart>https://static3.srcdn.com/wordpress/wp-content/uploads/2019/09/Smallville-Season-2-best-worst-episodes-Featured-Image.jpg</fanart>
+</item>
+ 
+ 
+ 
+<?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]ARROW 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LU6uujikR1qEOMa_qfx6BdllALe6IBPS/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iXv7ugx0fJjZPGtt_9l9Y5Chz_3zJOcR/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/128th1_Nv88vkiwba2B1Z5DO_BVBxNXjQ/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g_6-lX97bJxdUw-vtGn2HLfyh1XDOTE4/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yb6Lu3hIsOP15Qox2VAm7AKr9oRm-3I9/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nd_cCHq7keCE50qXZQ2cxhFkeZH5tz-8/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YcRCATnMjW1bxIa7pgCgvhncBv1t8Ey9/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mquf_-Tck0RR3wtpnfB4xuVdkUiEL5Qu/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MoJiOyXwmAxslH__wZm7EwQIyZWZPEZD/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19k5y5N8ah-MWnkv9zxMA0MXICXSFXews/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Xl9Gux-Kj6uJaOkLMpusYB41Kg5hZQQb/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Am4jcIh55A_T7A5FKxSN29KYP1NVzmWN/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SN3f-Bs8thf-aM2zoq05Mth1N_YEaAzY/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KsHt8bEG9T-0IV4H7IMQMlcmuuO6Z7YT/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12uMvy_D2cqgjmLLX0CBXQdcN5ngFf8Ag/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Yfl-nYPfiTZ4gYKbe_tQLT1c6iqDHdUH/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ousW9gwH-HxJ9f8OrvwoTeHpFX3H7beB/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uNm0Jq137JpfcMqtkyAQR6jZwmheOG03/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a6IG2fzygHzV0HugcwmP1JiddPwXOwyF/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1doNdkN6i1Qw51fOI_c5oOX-iEJrURUKg/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 23[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ZaUirR95boE7hqYnV1TR3Td0SLLaDss/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2014/06/Arrow-season-1.jpg</thumbnail>
+<fanart>https://esfarelado.com.br/wp-content/uploads/2014/12/arrowwallpaper-1-1170x680.jpg</fanart>
+</item> 
  
  

@@ -1628,3 +1628,167 @@
 </item> 
  
  
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]GOTHAM 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eOi6zopj8VLM8XSIQkfivORbcStzBpnZ/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gAZuugIZG7z1S3vj8amq0IczjmduIfnt/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zM1auKA9h19rppBz_MLhDTFlIpM1ipYa/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WQD7X0Skdw-Dm_DzQgDw7b40cVkhJhHB/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11E2ligTc8i0SxvD1D_ADzTrkP8ocV9na/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BZw7w8WMrWFzvWTXS2_Ufix9HCtpAaiN/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RLv37pxNKP2_kQgfyzU10o_HcOjPKWQI/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x0zGpS-e_4jW4S2NdwKLlaZWcHGnGP25/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b7TELPi3zt7AwBEZkKChbO4YuxUsI1NN/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fBsXV6_nCCJBwWP3GqBrPwvtz2qcjP3X/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P46qFl7HO1SVPEi2fV10rpGDYaL3TdCs/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JgguXbdyiKCp6hM7by-0EK_db133BkSR/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UnMD1jaCJzAiOkws31kFr4rk2tNcDpyL/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14P2_HDXwzTcmbvrxjO4GEPAnmyjAtJvq/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_SmKfX8NlWgqt4v4nZEX5wyVXc48g_yA/view</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
+<fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
+</item>
+
+
+ 
+ 

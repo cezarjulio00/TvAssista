@@ -852,6 +852,105 @@
 <fanart>https://3.bp.blogspot.com/-HhDH7nOFs6Q/XEHb83fFrOI/AAAAAAAA_eU/npr2Gg65EI8kBD3vVBeZvYCVHQjYtcblwCLcBGAs/s1600/dc%2Btitans%2B%25283%2529.jpg</fanart>
 </item>
  
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]TITÃS 2ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12O5wXbRSv-e8l8JZQcNoFq-bBXs5J8yX/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d4PtrV7Fp_KMfP3P0lVyMGvlCuDjprHE/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wfiiBYp4ow1zOjEMxVvlux54LSnz_On5/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i4iXnHx-dZay3anNFn4O6ysBlEWMOJCn/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10gEpAlyh34tOqlt1MSBCCLJpzpSBUbPW/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wBGrPpAokiC0bcWnDJy-knGOMGx8H6SP/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rZy1R0P6sHNWNLoKK1qJP7jSqnHW4Td2/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WDovCQU2GKP3rSTEHstv4y1X3g-7mQqG/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FcrgWOLggZbogQpiS6J8skiHUoa_ZQgm/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1C_QSRhRyv1zRxWqXuXb0IPGbjB58VIjl/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KGsuGl9XkaGink3QLjF5J8PX5v4eJU7z/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GdKxLfPswQRuc4sL4RMg9vfFBPVjWf1V/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KTlaSrZaURqpCLbqXC82NuiWlNKA-_R3/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3840/1*M2t6O3ReiNl0-WR3XqRkaQ.jpeg</fanart>
+</item>
+ 
+ 
  
  <?xml version="1.0" encoding="UTF8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
@@ -1020,6 +1119,176 @@
 <thumbnail>https://ssdvds.loja2.com.br/img/173219efc64978af02a5b8bebf345388.png</thumbnail>
 <fanart>https://sites.google.com/site/loucosporcsilasvegas/_/rsrc/1280259658050/fotos-1/csi/bbc.jpg</fanart>
 </item>
+ 
+  <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]CSI LAS VEGAS 2ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1irnfkLE-xXNs03JLQ5Jpeogp2_upFnAG/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18rXpxiEWrXKEUVE7ybcz-jaWCH9ItqW5/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VkYINKEWp3TUFkSzoHreOc1amOpGsztG/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FfdPxFm65eopJehXmdJ3VxXAM-DfXYc8/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ry9qQZ9b39m8e0axVN3i1JMinPa7PnPG/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A4JseIIKqNE71UgHGPiCLnDii-6_NrdG/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lRwRbc2ac2KTVMEmKHsmE2x7CR46xjPg/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13Ml7CZpfHGYMqUh30DhRywXFiMZ-z7ed/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qtKfnd8A7AWZijJtKSx6BVDQ70sSL8yA/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B9t0S8-Ql9oqbOtUUQLPK3I-p2XvMuYL/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19FW2OW2TeIWmU4eJzDQPbe_8E1yHzgsk/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Q9PC_xaK5ekxaF4xluVRfP_98HYQNfVf/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kcT-eAeO7rgUwS931s1UT-t_BeGNmUjx/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FQaEtWs7oDAmrgdpIXo0IL8u0gg-BYAK/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QOKnYeNsgd1WJAM0KLsNnW8XiMagbQZn/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iwYD5EWiHvO5fhmlb6QV3R0SjtXBKKwq/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1di-sZHBlmj7b-CyNwz4snXUz4jeznVwV/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oe0DnZgWiqvRIJ-Hrrb_ErXcl5F-921V/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-GCImQ1VHr5Ah6fo0lWiqXAy8vOMiziz/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14MsafhNCQqQ1G-ztK1G3wuQUYuE7SXz5/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A0IaR5esY-Vhaw8sQiI_OAXbkkCIicrR/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 23[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Rawa3OQGB8s0Up2A3INfIAHhZVca4mKb/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/CSI_S2R2.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/26/d6/40/26d640ec82722badbbb53f94e69828dc.jpg</fanart>
+</item>
+ 
+ 
  
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>

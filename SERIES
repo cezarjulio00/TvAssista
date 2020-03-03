@@ -2841,3 +2841,102 @@
 <fanart>https://entreterse.com.br/wp-content/uploads/2017/12/vikings1.jpg</fanart>
 </item>
  
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]THE 100 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ch5yikl7ov7yKU1X0vlpdvWsq-zgxPr8/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DAB9FfktbalCnrIw-dBXKV_EwdBWyvgu/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OPvhTKPa-E6CGXU_D8j3KbU4DNUah3fM/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oa4Hw29WEF-3ucZ8YU6r-G5Cjpe6nNX4/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-SbWKQhimZPoUQPYPtmPWZoWehdui5BU/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Mc9LbSWSL_XRzHK6m8YhxmiZyScvzbrD/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P7w5r5Cw034ZDnDYyg-W2lyHrPIZ-cBH/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gwMA4TsHDVWth52pLyEcXTpDRaDiD9cE/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MjBKAP9OCZJBHmbngRoV0WBHjIJ8J7-q/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11xb2OTSJivKNDptWaz3rwy8zxLhJA5kc/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1C-kR8Vv02t7hLk-oIo0SQFY9o-Zs88po/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xdb8k36CzW4lgtHPF013b_eaGmBuyRXQ/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-ZudsLlxINrVK_SNos8TOIJSYifW3iz-/view</link>
+<thumbnail>https://http2.mlstatic.com/dvd-the-100-1-temporada-completa-D_NQ_NP_907783-MLB31447783395_072019-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-100-1-temporada-completa-D_NQ_NP_320911-MLB20658980683_042016-F.jpg</fanart>
+</item>
+ 

@@ -2616,7 +2616,228 @@
 </item>
  
 
-
-
+<?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
  
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]VIKINGS 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VPoAj0Y4V0S84X5Jo1u2fsFFYtm-POQp/view</link>
+<thumbnail>https://i.pinimg.com/originals/8e/e4/47/8ee4476e4f8d034063caa8234249600a.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/2560/1*nNNopRfWmAGTpRr-hoM1hg.jpeg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://i.pinimg.com/originals/8e/e4/47/8ee4476e4f8d034063caa8234249600a.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/2560/1*nNNopRfWmAGTpRr-hoM1hg.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1llRoToL62qFtk8K1vmd3ZO743K9UGWlE/view</link>
+<thumbnail>https://i.pinimg.com/originals/8e/e4/47/8ee4476e4f8d034063caa8234249600a.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/2560/1*nNNopRfWmAGTpRr-hoM1hg.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g8vaRbarwhdChfyQnqpNg0YttQKgz1I0/view</link>
+<thumbnail>https://i.pinimg.com/originals/8e/e4/47/8ee4476e4f8d034063caa8234249600a.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/2560/1*nNNopRfWmAGTpRr-hoM1hg.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DQ2Zmo8hZC5Kh44HUMaGsILH6Kuk0POg/view</link>
+<thumbnail>https://i.pinimg.com/originals/8e/e4/47/8ee4476e4f8d034063caa8234249600a.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/2560/1*nNNopRfWmAGTpRr-hoM1hg.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eKOCKrunLbjrP8q1g3C6GO1YnYTNUHlf/view</link>
+<thumbnail>https://i.pinimg.com/originals/8e/e4/47/8ee4476e4f8d034063caa8234249600a.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/2560/1*nNNopRfWmAGTpRr-hoM1hg.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1N3iUP1uVAO3evPOLfSHgGma8HrS0bLH6/view</link>
+<thumbnail>https://i.pinimg.com/originals/8e/e4/47/8ee4476e4f8d034063caa8234249600a.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/2560/1*nNNopRfWmAGTpRr-hoM1hg.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sPvi3CFxg4jFkDMKuk_FIM3m_ToKYmeQ/view</link>
+<thumbnail>https://i.pinimg.com/originals/8e/e4/47/8ee4476e4f8d034063caa8234249600a.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/2560/1*nNNopRfWmAGTpRr-hoM1hg.jpeg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U0e25vB8PUbl5IDuVQ89hx52jwyogqEz/view</link>
+<thumbnail>https://i.pinimg.com/originals/8e/e4/47/8ee4476e4f8d034063caa8234249600a.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/2560/1*nNNopRfWmAGTpRr-hoM1hg.jpeg</fanart>
+</item>
+
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]VIKINGS 2ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mJjMsqrPHkfP_VOMJWmH2kmDFz2mh0zB/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91e5V4wK46L._AC_SL1500_.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/11/04.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Rie2rD-HT13xoJ5KAK4UjCATRUfqiez-/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91e5V4wK46L._AC_SL1500_.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/11/04.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15dxBxt8bYvKpiGabmnc-K3eahcMIQ1Id/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91e5V4wK46L._AC_SL1500_.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/11/04.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DC8M_ZRndD07_hVhew20nvdHF5V8mF4B/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91e5V4wK46L._AC_SL1500_.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/11/04.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pb-rhaWzb7YRNXZKauemf5sNCZrOCFQq/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91e5V4wK46L._AC_SL1500_.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/11/04.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cOaxCItnHa5JlS_g2-CFkch4pHN9nI_i/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91e5V4wK46L._AC_SL1500_.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/11/04.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z_pUXbwcbjrnj4KSvfDRHeh8E5s1XRN7/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91e5V4wK46L._AC_SL1500_.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/11/04.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14GObZJm3sfiOVywx2fKOMwMX_gNABM4J/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91e5V4wK46L._AC_SL1500_.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/11/04.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U7PyqD1DXjwktKw3q2IhtzsR0QpVzqHU/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91e5V4wK46L._AC_SL1500_.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/11/04.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CfGuiRVB_lytekRL5YR1soA0ifPDeKrl/view</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91e5V4wK46L._AC_SL1500_.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/11/04.jpg</fanart>
+</item>
+ 
+
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]VIKINGS 3ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1opaedyAnYeWp0RZ8U6H2tDfdcjKa3iTe/view</link>
+<thumbnail>https://i.pinimg.com/564x/32/51/14/325114e4369aa819cdfbade52fc000c4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/12/vikings1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xkFrmJsrjEWnzn2BFl9XFkQY-EhyANTW/view</link>
+<thumbnail>https://i.pinimg.com/564x/32/51/14/325114e4369aa819cdfbade52fc000c4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/12/vikings1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w12XzdeeW0A8T4J0FHAawj_EpooZMJOq/view</link>
+<thumbnail>https://i.pinimg.com/564x/32/51/14/325114e4369aa819cdfbade52fc000c4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/12/vikings1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h1xdUsFJm3q2sKTx7HFKr5_Lw8W63-HH/view</link>
+<thumbnail>https://i.pinimg.com/564x/32/51/14/325114e4369aa819cdfbade52fc000c4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/12/vikings1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K6EagTCltfRbXcBKf4zU1SU5poLXqkuI/view</link>
+<thumbnail>https://i.pinimg.com/564x/32/51/14/325114e4369aa819cdfbade52fc000c4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/12/vikings1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u8JTkJ5UreClhlfFNocHzgBn_Q-9OrnJ/view</link>
+<thumbnail>https://i.pinimg.com/564x/32/51/14/325114e4369aa819cdfbade52fc000c4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/12/vikings1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gJRY28DYOQAqwsProefa6upHCzJYvamG/view</link>
+<thumbnail>https://i.pinimg.com/564x/32/51/14/325114e4369aa819cdfbade52fc000c4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/12/vikings1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1izpSXuCErAtkNwcAjWh3HmXxKEQ9ll3o/view</link>
+<thumbnail>https://i.pinimg.com/564x/32/51/14/325114e4369aa819cdfbade52fc000c4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/12/vikings1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wEO2SjZ53Mr5zoRlWdqYAwuYJ1XD_Vce/view</link>
+<thumbnail>https://i.pinimg.com/564x/32/51/14/325114e4369aa819cdfbade52fc000c4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/12/vikings1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/181og2bSK3HIJx2zTxyyeHC6YYgmSRL5d/view</link>
+<thumbnail>https://i.pinimg.com/564x/32/51/14/325114e4369aa819cdfbade52fc000c4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2017/12/vikings1.jpg</fanart>
+</item>
  

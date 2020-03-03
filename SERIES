@@ -2555,6 +2555,67 @@
 <thumbnail>https://www.vortexcultural.com.br/images/2015/05/Gotham-Poster.jpg</thumbnail>
 <fanart>https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/Gotham.jpg</fanart>
 </item>
+ 
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]SHERLOCK HOLMES 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://elfinalde.com/wp-content/uploads/2016/02/57o4MgHdSXP9SANGcDevuHqpT3G-683x1024.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2018/11/sher-1.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QaezJzqUFMYCbR6hExUuENN9Zi0H7Tme/view</link>
+<thumbnail>https://elfinalde.com/wp-content/uploads/2016/02/57o4MgHdSXP9SANGcDevuHqpT3G-683x1024.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2018/11/sher-1.jpg</fanart>
+</item>
+
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZFESU7ePDUujFRecSIavqomGMyGpJTxa/view</link>
+<thumbnail>https://elfinalde.com/wp-content/uploads/2016/02/57o4MgHdSXP9SANGcDevuHqpT3G-683x1024.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2018/11/sher-1.jpg</fanart>
+</item>
+ 
+  <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]SHERLOCK HOLMES 2ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L90i2uq0wtNKG7gKTfqCj9FRkdUzedoq/view</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/14/01/06/14/35/382626.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/19/e4/c8/19e4c8d91007e63f5c36e83b24e4b3a0.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KCtWwamxtmipKtdMMS-uWiJhEjpkQYoH/view</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/14/01/06/14/35/382626.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/19/e4/c8/19e4c8d91007e63f5c36e83b24e4b3a0.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lTkQe8ZXGP8cVarURS80CFDwev0RuBcr/view</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/14/01/06/14/35/382626.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/19/e4/c8/19e4c8d91007e63f5c36e83b24e4b3a0.jpg</fanart>
+</item>
+ 
+
 
 
  

@@ -1181,14 +1181,14 @@
  
  <item>
 <title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IMjPsPgieHXWVWyy9ZpIfJnFbBSWYc4_/view</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91wJRqtysDL._AC_SY445_.jpg</thumbnail>
 <fanart>https://bloginterocitro.files.wordpress.com/2014/10/5410cdc68760e.jpg</fanart>
 </item>
  
  <item>
 <title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19ewubKusweFdXhCyC1ntUzzQJDpIteTS/view</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91wJRqtysDL._AC_SY445_.jpg</thumbnail>
 <fanart>https://bloginterocitro.files.wordpress.com/2014/10/5410cdc68760e.jpg</fanart>
 </item>
@@ -2574,7 +2574,7 @@
 
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x3Yu0japAD4A0VOb8jjnDwRuV5IOXwZJ/view</link>
 <thumbnail>https://www.vortexcultural.com.br/images/2014/06/arrow-2-season.jpg</thumbnail>
 <fanart>https://i.imgur.com/glt6NkG.jpg</fanart>
 </item>
@@ -2582,7 +2582,7 @@
  
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Sge4JbMiTqKj9X0c2NXQZMpuOHEpG5h6/view</link>
 <thumbnail>https://www.vortexcultural.com.br/images/2014/06/arrow-2-season.jpg</thumbnail>
 <fanart>https://i.imgur.com/glt6NkG.jpg</fanart>
 </item>
@@ -2622,7 +2622,7 @@
  
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_DNCPW6wszXMJbJCZAE-tglJNwWn3n6Z/view</link>
 <thumbnail>https://www.vortexcultural.com.br/images/2014/06/arrow-2-season.jpg</thumbnail>
 <fanart>https://i.imgur.com/glt6NkG.jpg</fanart>
 </item>
@@ -2670,7 +2670,7 @@
  
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JRqJCNDwSvmFFAV1HcPoZoAukzLah3VQ/view</link>
 <thumbnail>https://www.vortexcultural.com.br/images/2014/06/arrow-2-season.jpg</thumbnail>
 <fanart>https://i.imgur.com/glt6NkG.jpg</fanart>
 </item>
@@ -2702,7 +2702,7 @@
  
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ATaI375mzSBCXL_HsFKyY_u6NNrhaRXj/view</link>
 <thumbnail>https://www.vortexcultural.com.br/images/2014/06/arrow-2-season.jpg</thumbnail>
 <fanart>https://i.imgur.com/glt6NkG.jpg</fanart>
 </item>
@@ -2710,7 +2710,7 @@
  
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OWdu2UKVHrFfqcsP0UI4P3Q0QbhH823_/view</link>
 <thumbnail>https://www.vortexcultural.com.br/images/2014/06/arrow-2-season.jpg</thumbnail>
 <fanart>https://i.imgur.com/glt6NkG.jpg</fanart>
 </item>
@@ -2734,7 +2734,7 @@
  
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AQ-yeeKE0xc6bewIQFlod-AuEs0AOeVJ/view</link>
 <thumbnail>https://www.vortexcultural.com.br/images/2014/06/arrow-2-season.jpg</thumbnail>
 <fanart>https://i.imgur.com/glt6NkG.jpg</fanart>
 </item>
@@ -3365,5 +3365,174 @@
 <fanart>https://corujaodicas.com.br/assets/frontend/img/galeria/img10022019220225.jpg</fanart>
 </item>
  
+
+<?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]CSI LAS VEGAS 3ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A0lI9mZicnfAk-zE7r52vFqcRWD6ARDE/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/175Fi1ShWlKlizNnLOYYv9xFXp7kBkV8-/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QCAHuvvtHaBJDtQhe8gTnnmTkMjqkdMZ/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15hRqfAaHwm-WY0v_vQKkKhpAdYiTdMi4/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ygcvwczLRjP8GP1IjLkJKJ_2DnXsbT0A/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ASTBFxpVroT1k4_s0u6KEguVHazmkvAq/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UCYJcpP5i1Lhq3LqKCilRVRtkYy8Nxvy/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19or1cf8Ro4YJ5eaIIVVV8SSdaq6yPV62/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oQ9o5tcFc7mG9Vh9G0ISSI9T7t6pjiEm/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QYgdYo4rvOipgiAA4EFoVAF54GgPoNmF/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OB1l1pj0hoHUNUmJmGKNmHZEcOnDyFtz/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OAheXmWtALnRj4Iz0ExKXVvbG441d44x/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vreCRGbecVihkt4w8yfyXtHd2vrYmwgp/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BEFYKDuJuWrKoL3Yh-AeNyERhtNypTrs/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10ygYQUGjF4UnfnIzkJOMs65ReCoYOl7B/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14TQ0Ma1USO-ytk9zWHP0szEgt5-PPQiS/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13aWyNYU2BeytIiShQH-f1wEAyQZqROQt/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h2GhASOZmy8hCLhJT7_upJXq_uuUmMyB/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19uOUXdvxSRkTVq7pMsXLnfAkDkIxZG-Q/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11MU4b1Dm0WwO-T7fUJiluiKuA7OQ5lRA/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gp-1A6LxKp0iZuEdLKLalOKJ9MRfda3Z/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12b4bmUHGr4PReMjL4YWyVRlttXqsBxNh/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 23[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XSHY5cZxrDH4Fe3ssObqwoQ1Mb0CHXO7/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/02/1e/87021efc175cb930c161f4e49e7a1b43.jpg</thumbnail>
+<fanart>https://cdn.hipwallpaper.com/i/81/43/u1rPo2.jpg</fanart>
+</item>
+
  
 

@@ -3302,7 +3302,68 @@
 </item>
  
 
+<?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]INVESTIGAÇÃO CRIMINAL 1ªTemporada[/B][/COLOR]</name>********************************************************************************
 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B-7TEy9BJqxyzDJ4k7rLYZo8bdM69fO0/view</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/mla.057716/0057716_335.jpg</thumbnail>
+<fanart>https://corujaodicas.com.br/assets/frontend/img/galeria/img10022019220225.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yQl7czqGC7aPCZRFw1LDKPiElTz3UwE1/view</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/mla.057716/0057716_335.jpg</thumbnail>
+<fanart>https://corujaodicas.com.br/assets/frontend/img/galeria/img10022019220225.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15WIg3rSWnzk1lZUqyxP8OVbyzNtiS2pI/view</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/mla.057716/0057716_335.jpg</thumbnail>
+<fanart>https://corujaodicas.com.br/assets/frontend/img/galeria/img10022019220225.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ErSqWfApJtSXpMu8-Ws_czXkfZjPJFiT/view</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/mla.057716/0057716_335.jpg</thumbnail>
+<fanart>https://corujaodicas.com.br/assets/frontend/img/galeria/img10022019220225.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A7ihvkViqHPi6dqCq4ff-YwFYqEHb3Px/view</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/mla.057716/0057716_335.jpg</thumbnail>
+<fanart>https://corujaodicas.com.br/assets/frontend/img/galeria/img10022019220225.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rbX_LlQrpT-SHGObEssWJdybfO5fUVUp/view</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/mla.057716/0057716_335.jpg</thumbnail>
+<fanart>https://corujaodicas.com.br/assets/frontend/img/galeria/img10022019220225.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P8eD48LSEnM6ZwneKiJGgH8I93K8wzHc/view</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/mla.057716/0057716_335.jpg</thumbnail>
+<fanart>https://corujaodicas.com.br/assets/frontend/img/galeria/img10022019220225.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-u2wtSH8gF0btSXw47gxgDvDbAok5BvN/view</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/mla.057716/0057716_335.jpg</thumbnail>
+<fanart>https://corujaodicas.com.br/assets/frontend/img/galeria/img10022019220225.jpg</fanart>
+</item>
  
  
 

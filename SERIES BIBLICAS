@@ -75,3 +75,72 @@
 <thumbnail>https://http2.mlstatic.com/a-biblia-serie-a-d-the-bible-continues-dublado-leg-ft-grts-D_NQ_NP_712742-MLB27266526366_042018-F.jpg</thumbnail>
 <fanart>https://www.minhaserie.com.br/images/highlights/000/010/238/765.jpg</fanart>
 </item>
+ 
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]EU CONHECI JESUS 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gO2Foa4qzqf5riQO5F8Rq2SUWc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cRHEcganmWl3Q0OQgaL5GtEq9vs.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sFB8yvJUp6zaD4hlkyiBB_22i21wY-am/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gO2Foa4qzqf5riQO5F8Rq2SUWc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cRHEcganmWl3Q0OQgaL5GtEq9vs.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qj4G-pErJXDtoaHlJ8Z1pCHtcetSvrew/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gO2Foa4qzqf5riQO5F8Rq2SUWc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cRHEcganmWl3Q0OQgaL5GtEq9vs.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y79VVgcPYtXrSa9aZdEbaV70gj6qo4E4/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gO2Foa4qzqf5riQO5F8Rq2SUWc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cRHEcganmWl3Q0OQgaL5GtEq9vs.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tlLBu2MiHwL35c6_m0LIRdiwh_ajkvYm/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gO2Foa4qzqf5riQO5F8Rq2SUWc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cRHEcganmWl3Q0OQgaL5GtEq9vs.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xnyXuAj71wU7EiqttCKETojduEnbpjqV/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gO2Foa4qzqf5riQO5F8Rq2SUWc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cRHEcganmWl3Q0OQgaL5GtEq9vs.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Vx4leCueILs_mtqQtIJ3pKXDQ142IWST/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gO2Foa4qzqf5riQO5F8Rq2SUWc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cRHEcganmWl3Q0OQgaL5GtEq9vs.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gO2Foa4qzqf5riQO5F8Rq2SUWc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cRHEcganmWl3Q0OQgaL5GtEq9vs.jpg</fanart>
+</item>
+ 
+
+ 
+ 

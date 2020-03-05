@@ -87,7 +87,7 @@
 
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VhQ1bMzkS77thmuJcGpTYKdUZnLkfGRM/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gO2Foa4qzqf5riQO5F8Rq2SUWc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cRHEcganmWl3Q0OQgaL5GtEq9vs.jpg</fanart>
 </item>
@@ -136,7 +136,7 @@
  
  <item>
 <title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WJriex-iHhhBO8X22shLa9-bRuEdxvHq/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gO2Foa4qzqf5riQO5F8Rq2SUWc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cRHEcganmWl3Q0OQgaL5GtEq9vs.jpg</fanart>
 </item>

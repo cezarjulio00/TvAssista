@@ -141,6 +141,92 @@
 <fanart>https://image.tmdb.org/t/p/original/cRHEcganmWl3Q0OQgaL5GtEq9vs.jpg</fanart>
 </item>
  
+<?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]LIA 1ªTemporada[/B][/COLOR]</name>********************************************************************************
 
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cZUw3xEWN2FH4ciAOLSA2fhLVsEL28Yy/view</link>
+<thumbnail>https://videoseriesbiblicas.com/wp-content/uploads/2018/07/lia-la-mini-serie-3039-poster.jpg</thumbnail>
+<fanart>https://portalaltadefinicao.com/wp-content/uploads/2018/09/Minisserie-Lia-Record-TV-Europa.jpg</fanart>
+</item>
+ 
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_X8t8B174AA3CR-5g2mOWObH75yhDs1J/view</link>
+<thumbnail>https://videoseriesbiblicas.com/wp-content/uploads/2018/07/lia-la-mini-serie-3039-poster.jpg</thumbnail>
+<fanart>https://portalaltadefinicao.com/wp-content/uploads/2018/09/Minisserie-Lia-Record-TV-Europa.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tX6WLxsNBgGm2n4vFn8SHUrpLEkyCKSh/view</link>
+<thumbnail>https://videoseriesbiblicas.com/wp-content/uploads/2018/07/lia-la-mini-serie-3039-poster.jpg</thumbnail>
+<fanart>https://portalaltadefinicao.com/wp-content/uploads/2018/09/Minisserie-Lia-Record-TV-Europa.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10BXx6Vz1aTZ0tVUEi4RzUWjv7MHe_I_5/view</link>
+<thumbnail>https://videoseriesbiblicas.com/wp-content/uploads/2018/07/lia-la-mini-serie-3039-poster.jpg</thumbnail>
+<fanart>https://portalaltadefinicao.com/wp-content/uploads/2018/09/Minisserie-Lia-Record-TV-Europa.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TleQJc7gpmlP34PfEAbtarsEoX060CQc/view</link>
+<thumbnail>https://videoseriesbiblicas.com/wp-content/uploads/2018/07/lia-la-mini-serie-3039-poster.jpg</thumbnail>
+<fanart>https://portalaltadefinicao.com/wp-content/uploads/2018/09/Minisserie-Lia-Record-TV-Europa.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ddV7cKb7KE7C9WQ_Y0syiUdCN5_pux6d/view</link>
+<thumbnail>https://videoseriesbiblicas.com/wp-content/uploads/2018/07/lia-la-mini-serie-3039-poster.jpg</thumbnail>
+<fanart>https://portalaltadefinicao.com/wp-content/uploads/2018/09/Minisserie-Lia-Record-TV-Europa.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_OiaZY8hCA8DYei18QVv2-vW8j5fXkOh/view</link>
+<thumbnail>https://videoseriesbiblicas.com/wp-content/uploads/2018/07/lia-la-mini-serie-3039-poster.jpg</thumbnail>
+<fanart>https://portalaltadefinicao.com/wp-content/uploads/2018/09/Minisserie-Lia-Record-TV-Europa.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k0QZWRAt-OIOZrk8R4jS9hoWxmbuVEaU/view</link>
+<thumbnail>https://videoseriesbiblicas.com/wp-content/uploads/2018/07/lia-la-mini-serie-3039-poster.jpg</thumbnail>
+<fanart>https://portalaltadefinicao.com/wp-content/uploads/2018/09/Minisserie-Lia-Record-TV-Europa.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_nBiZQTtvvNVwfknOBa9wK_rXUVqmjNU/view</link>
+<thumbnail>https://videoseriesbiblicas.com/wp-content/uploads/2018/07/lia-la-mini-serie-3039-poster.jpg</thumbnail>
+<fanart>https://portalaltadefinicao.com/wp-content/uploads/2018/09/Minisserie-Lia-Record-TV-Europa.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hhst6S5NHe1Hhtp31dcV9dRYk_1JCmiY/view</link>
+<thumbnail>https://videoseriesbiblicas.com/wp-content/uploads/2018/07/lia-la-mini-serie-3039-poster.jpg</thumbnail>
+<fanart>https://portalaltadefinicao.com/wp-content/uploads/2018/09/Minisserie-Lia-Record-TV-Europa.jpg</fanart>
+</item>
+ 
  
  

@@ -3768,3 +3768,93 @@
 </item>
 
 
+<?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]ZOO 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eTnLfoqhK1vKSkEhyQecjPSnRI-g-nec/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16iQa1LtFkClvu17qdWUqOyayRenQhtDP/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UU9ULEBlaki40A8Uvbe3BLlSPebP5dZh/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VYD4xjGLWT31Re1AZXP4tCIt_7QDBI7k/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nHUiDk1sQMKV8BKDAj_90dee8tQ4cNzr/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Fqfd0I-AGCsSFS5fheSzSeMXVMylDrvd/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tWwK0w67om9ZnSU7h7bh3H9-b2zY-lbV/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1m3rAjXzdzB0ItX7N9qhYKObIyy1ZOtLy/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18w5-3cYNfruF6V84-Y18ClVjL-gV6ZsD/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11F2flLU3Uz-I9ueXwKFv8XqMiRusoBQ5/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uxH76raTMJYdZoODH0oMhkN6xjfQ7Cr7/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b-X0Q0Fj2Hi2eyIDtyQBt9wU_zqG9IY-/view</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/04/02/11/36/061480.jpg</thumbnail>
+<fanart>https://www.minhaserie.com.br/images/highlights/000/026/436/1059.jpg</fanart>
+</item>

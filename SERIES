@@ -3597,5 +3597,174 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8TOkxONO3TEeJRuZWb0hG7SboyV.jpg</fanart>
 </item>
+ 
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]CSI LAS VEGAS 4ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JiJeZbSKEU1uFd_DM__R_K3JDtpH5SI2/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GfYD0W4-jsWP4rOBm6NLf5q7_CcV7O_I/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16fU69T4HlTWD3vpaFx4BSCnesb4hwEQJ/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1z2dS2wwiIB2yTbu_t3LRXEAhE29jNRAN/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Sk4lHtGEWkOoD3-YBX9BhqzhHN3w75bN/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mKY7QEppA1-D5elb6SArMtJYa51LP81s/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15htY8EJVT73MnkFu4kmqKrJRG1E4XvwY/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P2fQFb6lgsUMAwuqQlfiBMB80sQhlYh0/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16lyZ1YmxeZLUb3Rmk4blpSZ5wuv1-rnE/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oZ41pJ4RE-KJ2TJebbDJ46-y_mSXAUze/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15pmnlytbAgumJVL-HJ_-Rxyy_Vpv-K4c/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18TCxoAfMZLM_MFAqNGf5JgsyZdOfTT4G/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jRNHLN6X8S9db7uZO-Fgv9KMlInEP5m5/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s_-J-hfdYp8w9gypisFWYZcQt3uVAP-T/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W1W40NtS2vMMrhWqIi8F_gflNCfQ5avp/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D4nkmN2lB6PManZK_MVBZan2vzVoOFsw/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y4S3DrRK8NDKTb0ERfpo2as4DYOtHa5m/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16aQ-gkpXQb_kOndV4vNbRA-5qe_Eodpn/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ue3xOwvCwtjyj5mWcvVKEElMzWU5CM92/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uhpNrPzU-i_ClxxQ1hl2vtYH_QQGR9LW/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CME6y6dQ8A_OaVDUNx7EC3rA94hGf1Jt/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xQtFZKJ0dWXETXCj4B5eXZPQjsfsVP5Y/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 23[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19i7OE9NiSO586fjgGJGzNbmcTiN-veBN/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/CSI_S4R2.jpg</thumbnail>
+<fanart>https://free4kwallpapers.com/uploads/originals/2015/07/20/csi-las-vegas.jpg</fanart>
+</item>
 
 

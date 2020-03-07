@@ -3,7 +3,7 @@
 <layoutype>thumbnail</layoutype>
  
 <item>
-<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]A ESTRELA DE BELÉM[/B][/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR] [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]A ESTRELA DE BELÉM[/B][/COLOR] [COLOR yellow][B]*[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/116X7oDVxSuIXU7UigyRU_rvWQi80eUPc/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEbDvivUfsCupngKIfMJJ725eAD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/orpnKsu7t1CLDNYgzevgsz67xRq.jpg</fanart>
@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]O PRINCIPE DO EGITO[/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]O PRINCIPE DO EGITO[/B][/COLOR] [COLOR yellow][B]*[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WA4qCZp8YP2s9A35sytlWWon5Jb8LWPA/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wD34ls2faCrj8YvFViEaPfBtBEe.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1yB6o6L5DLteeraLhz5Q0buBm6i.jpg</fanart>
@@ -22,7 +22,7 @@
 
 
 <item>
-<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]JOSÉ O REI DOS SONHOS[/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]JOSÉ O REI DOS SONHOS[/B][/COLOR] [COLOR yellow][B]*[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M56EUfqWCM-9B8pAKDYSW14l6nV8hVcQ/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsL5nngGY8qTmXxtAamMUYVQDY3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zOSpXVcWeuJi2qFbKvifxsGG8lO.jpg</fanart>
@@ -32,7 +32,7 @@
 
 
 <item>
-<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]DESENHOS DA BIBLIA[/B][/COLOR] [COLOR red]FULL HD[/COLOR] [COLOR lime]*GDRIVE[/COLOR] [COLOR yellow]DB[/COLOR]   [COLOR red](Drama, Policial, Suspense)[/COLOR]  [COLOR white]TV[/COLOR][COLOR red]ASSISTA[/COLOR][COLOR yellow]HD[/COLOR]</title>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]DESENHOS DA BIBLIA[/B][/COLOR] [COLOR yellow][B]*[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zuwkg4HDdbQalkQAZXvMYgwoLTmFjm9B/view</link>
 <thumbnail>https://infoadventista.org/wp-content/uploads/2019/01/Cole%C3%A7%C3%A3o-Desenhos-B%C3%ADblicos.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/08Lxy-F8vuU/maxresdefault.jpg</fanart>

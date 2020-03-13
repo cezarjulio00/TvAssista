@@ -5214,8 +5214,497 @@
 </item> 
  
  
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]ARROW 4ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YJ9xff6u40CiU-14HlnIZ_lKIDhoenoa/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a7YRdxpw9_tgbBH127GlwluTo_CU2gKc/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14iT6AL5nW_ByWE5UuQKBFbbPvezmTV1U/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WBSy3a8dJebc3iQwVmnCk9-bhf5pLT4d/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nnh-DAE3gdrQMbr3nxxZke2bwsn3Kkyi/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/171WjHLYqcAVJF8cc2D0agWA8AhOSN_7r/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14qTj6RTf8uRrX1EMNMjw-oJlF936Icdx/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eYHWbtCZ03g9o8_tyBbM8CEwTKgecKgj/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CmfGSiJlLr8mzXhI8WaBE5qxNGoJM_Hu/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17QYoEfb0ht7mp0ic-Dx1XipcrPhF4Yz1/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S2DmCVIHY1aznWSpf_pZfwZ8ZizogovW/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cItExBiusLuN-rmvo20lXDwxLURGxg_q/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wwOr3se-xQHOPDqvSz11Ahb8CPFpSFvL/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wueEMJn-Entevxi2nTFE6rGUsutMUmIg/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mJ4gObDFafA0O5k7XOhwb1aKpobbibNt/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RsMCsQy3Vp58z3h039PTeRNKy_PmMiYJ/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Lw64TFNQAXiaNBeCLdn6DZ-cAuBHvzk3/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mYhKnx_YYbhaNPOeP03NZEC7d47kq9jU/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pLAL5JIawS1RNaLb2Fqn_iALid3nd--L/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15Ti3TZL5xi3pB5Nb3C_GfrvP2kWxjRrm/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w2IZ72strE3oA60lBt_mlFRqPobOL8qt/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1px-PdTe2xRuNXCj__4NtNW9ddJf9D9vQ/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 23[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1smifNZx2GpuuvnrpgZ2zHU7-6cKXz1uT/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/03/Arrow_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R-BP8Lz3Gfo/maxresdefault.jpg</fanart>
+</item>
  
  
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
  
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]ARROW 5ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cVr5zkVsGRUXptNQ90mWzmWEZLbG9i3b/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1waN783IFCtfBLV1vbDEGDgIhU9jcZd9X/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SRZCJFzgZdLAJQmOMD_y46QqLTRrpf-i/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MD8z53kDvtedbuXWeDYwOjabaXbf5uiM/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w2zAeEw4DOyZFlu3Er1rBVAjNZdS8v4R/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17tGVaBc-NetPjvl_7N2OY12grOz3JZ6F/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BlV59-XpwBAMYbiqJpMH4_c4cfbNvsRO/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19-sy6EW0vvXW4y06LpU9E7PTQE5neEb6/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LRUIxyQIHlvPLafuBaiv5_yeZOBLi3Z8/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hCWW-0VUXl7XV-cfxhn0UpwjzfhpNLAK/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p1tKECz9dUlbrM6oV2bDse40pB7jFl2w/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PxsWFhx_sCKCXd15a4Sq-b7kEIFxUqkS/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kQKkAne0pHEB-I5gom82Xe4mMfH5g_gP/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TTeV4--RL7t3Y6Yw9bQQvh8fJb_pTEg-/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cI0GPLZp3fIE36qUXenDrfDMUbsH4vmp/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1453wm-Xkg0fXFdIgAzO9ZLlMfndIvetT/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I7lyJZRzFgG8NBet8DbE5_i3tjjqT8Sp/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13JwvIg9bjzN3YzRAew7VzWhI_A6am7qO/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I3-HhO-UYaPhvkGIQ4gA4pBwEuisAiED/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bXA6LkM-E3HpVZq2lgcsZHgalJ9remMs/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T52I5qHIvid3uPLpPiEo3u8VFHyMnHW7/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VhFShZ0nUe8eAwt9U0_qvUBWcTSu8v9y/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 23[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gp6ZjCh3YwYi_SjtocR8uFmQzQrgEFa6/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6b/Arrow_Temporada_5_Poster.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/arrow-5-temporada-blu-ray-4-discos-original-lacrado-D_NQ_NP_685823-MLB26463033641_112017-F.jpg</fanart>
+</item>
   
+
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]GOTHAM 3ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/197ayYS4qCRslLwRLw3ugzW7GtpsUrEEk/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MBCgJFG8Un4KGPoxayme9MzNeWbQ1Jzi/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W7RgOscT7uQMA2CbS-M41tnlkKblhViK/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Zhk3gxzgXxMOYNu7TXOYvXl2GH1EOf8J/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HQPH1hTns4YYFnK3n0s9UF_XRgq0TfmJ/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xoccw5jMe9_3MXlU_A-cEMKqnd1aA7Wt/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Lr3gPx7_tIr25kDnmqD6zbG_Q9O6iMDI/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LtWWw7W9WPy7yPUsTbJsw3uCI0fxzjuH/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sieA2CZptAO_PHC1Odlds271n6T5GdI2/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15MiAyeKptQeC5rdLDS2cXdKTD71IXCDC/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HCwjh4WM_BwEsn-MWZGICTzw_XeiDzOk/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QwfcHRB9i0-lEQ_4X8Fiu49O5HHkTH8w/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pPtiYQMmT-fyWNvz_0T1mIz1YonTLG9p/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vekmuWMcOOLuk9xFPSZei-fTm9VioK0C/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Xfc60n9en9thd6EfY1pgMNT2Uz-GCtL0/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b40wLLAqDUJ5cGdMuHiJzIYZ9bAotgHi/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TVsm41iKZGiW9lVtl9Qy2iOCZixotkgw/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18zernO-eOA1vpJIx08CJV27k9EugAvfx/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gN_gIi-UNeOsOMJeZ1fkJEG-XqEnOxm0/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18Bx3Hki3B-Go-13bfcxwcipGkAw0oEol/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21 E 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14UAo4lxMskWyLNrmu45UB6rj2O11A5Vm/view</link>
+<thumbnail>https://i.pinimg.com/474x/4a/c1/47/4ac14703f68068b894f4c7bc4d6761ac.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/oVsXBkmhqLo/maxresdefault.jpg</fanart>
+</item> 
+ 
  

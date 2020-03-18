@@ -229,4 +229,277 @@
 </item>
  
  
+<?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]JOSÉ DO EGITO 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LDdegUBvvhyvJnhruMq_A7COe4--tSUI/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rFbbaC776LBS0eUQwi3KT6fYq8YlFOuI/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BV2g0jVkKJQPEAEUfUcej5Bx2C2IiRq0/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U4u19TIVAuhbD1Ra963PR_HKvs1I_UYM/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a_Gm2xYUkvBDu8f58jwgWbhLN9gIOvV9/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OfwjE1V8XiZepcl_RkvuBxxY3RDUbEHm/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1G0_ej1ee4zvchKWkFZnGKiGxq5rgspzf/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1amuCMzBogIyRU0CE_ks5AGI8ceQVlFVX/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iFLZI-kEGqM-DAwloZWamLmRtGiGoYDi/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r62Y2vnjNIGXAB1cBDF9PWGOrjdJdp0M/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1csIKbUh550ZQ9dCToZFpi81buFVD76iB/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gujVHBstMcznUHtXvABthAANcmQaQZF9/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Gwku1cdgoTnr8-mCTworxUcjiirzMlSC/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SBO_8CLKpchAo9UEfxcID7p3rKsGIyZV/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yGYuNxIf0prqregOXztQ7xi6P-THuAep/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TOemqwTGdxpSEusKy38P1XBhAW8BsTGR/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fpBKT65eoJ-BTFpTF6Vaq7lq3s1AxLW7/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18-8O_oTBsYoT8_rHCGG1uWaf6yXsrs46/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ibkmFdG63LdPqfTZEs1OMREC-2x4lE45/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d0g5vP7T-d414-Ag9B1tiRRPtStDU_92/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10VLoCH1tTjIXhwIPplNwK9yAn0xytznU/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16QXXEEscGat3WmxMHrowoy9kvGCg6Ixc/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 23[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PPGm2rWsQ-5qAQeNy1BY8zMCG_vqLI6Q/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 24[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ViJMOFuxUMODXnBlRoDf4lHsGYTLDWqk/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 25[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fLpDH4K9hDgGTSTsmGTyCusPmSnOQjqc/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 26[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JTB9Ybpo3L3CkcWQ7257Xe-mvro5TymC/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 27[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10puOcBW7aF3QlxdhK2wt2fNDyvfFSyWT/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 28[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aRGno79bM7LNz33UQ8pFGhS0lCQI6yeO/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 29[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ysUV8nif60tyOxhZ4G6W7T1kWLi5tJn/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 30[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jSPrCx1i9X-ofcPGzm7Qzz6yv1jkVdso/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 31[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a3k-SBHtAduZ7KqyAEwJ0vHgQFAlSPKe/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 32[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U1Nt5_3IPa9vrIRN30aOiGxrrxLrEGZr/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 33[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XVSI60zuHnIV0XggtHE9Fsqlx9j327lr/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 34[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CvWkFS-RfT0np7m-9K35S7F5cv-Ackiz/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 35[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1E_ohamc7tp_qHKXEsRtiJkveyMojSyHd/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 36[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nd5FdlbX75DHtV4dMReybBBupdY_p-yC/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 37[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aXuwko5bmsLtg1e6BQI-7UmodrjIBfne/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 38[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IWDx9ctaenejbkdcXpUNY75XGCdrQtNH/view</link>
+<thumbnail>https://ia801509.us.archive.org/31/items/josedoegito/jose%20do%20egito.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/15/42/38/15423812e724c227ca498a4cb325acad.jpg</fanart>
+</item>
  

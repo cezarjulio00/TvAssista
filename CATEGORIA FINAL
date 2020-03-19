@@ -2,9 +2,9 @@
 <channels>
 <channel>
 <name>[COLOR red]*[/COLOR][COLOR yellow]FILMES[/COLOR][COLOR red]*[/COLOR]</name>
-<thumbnail>https://ia801407.us.archive.org/24/items/filmes_20200216/FILMES.png</thumbnail>
+<thumbnail>https://ia801509.us.archive.org/0/items/filmes_20200319/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/cezarjulio00/TvAssista/master/FILMES</externallink>
-<fanart>https://ia601508.us.archive.org/18/items/fanartseries_202002/fanart%20filmes.jpg</fanart>
+<fanart>https://www.legiaojovem.com.br/wp-content/uploads/2019/09/destaque-2.jpg</fanart>
 <info>
 
 
@@ -17,9 +17,9 @@
 <channels>
 <channel>
 <name>[COLOR red]*[/COLOR][COLOR yellow]SÉRIES[/COLOR][COLOR red]*[/COLOR]</name>
-<thumbnail>https://ia801407.us.archive.org/24/items/filmes_20200216/SERIES.png</thumbnail>
+<thumbnail>https://ia801509.us.archive.org/0/items/filmes_20200319/SERIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/cezarjulio00/TvAssista/master/SERIES</externallink>
-<fanart>https://ia601508.us.archive.org/18/items/fanartseries_202002/fanart%20series.jpg</fanart>
+<fanart>https://images2.alphacoders.com/834/834145.jpg</fanart>
 <info>
 
 [COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS DE SÉRIES PARA VOCÊ - [COLOR deeppink]|[/COLOR]</info>
@@ -31,7 +31,7 @@
 <channels>
 <channel>
 <name>[COLOR red]*[/COLOR][COLOR yellow]SÉRIES BIBLICAS[/COLOR][COLOR red]*[/COLOR]</name>
-<thumbnail>https://ia801407.us.archive.org/24/items/filmes_20200216/SERIES.png</thumbnail>
+<thumbnail>https://ia801509.us.archive.org/0/items/filmes_20200319/SERIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/cezarjulio00/TvAssista/master/SERIES%20BIBLICAS</externallink>
 <fanart>https://d233bqaih2ivzn.cloudfront.net/500/1280x720.jpg</fanart>
 <info>
@@ -45,7 +45,20 @@
 
 
 
+<channels>
+<channel>
+<name>[COLOR red]*[/COLOR][COLOR yellow]LOUVORES[/COLOR][COLOR red]*[/COLOR]</name>
+<thumbnail>https://ia601405.us.archive.org/32/items/5_20200319/5.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/cezarjulio00/TvAssista/master/LOUVORES</externallink>
+<fanart>https://ia601405.us.archive.org/32/items/5_20200319/4.jpg</fanart>
+<info>
 
+
+[COLOR deeppink]//[/COLOR] - O MELHOR DAS SÉRIES BÍBLICAS PARA VOCÊ - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 

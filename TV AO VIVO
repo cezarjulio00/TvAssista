@@ -5,7 +5,7 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&re
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="TV", GLOBO  - TV ASSISTA
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_15884b7650dbc7ca876fa4754f373e9447a6af8d/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/globosp_cfe21c68_11eec3c52c39806014ac5aacc93f311b6458ce8d/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="TV", SBT - TV ASSISTA
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w553137014_b1000000.m3u8
@@ -16,7 +16,7 @@ https://video01.kshost.com.br/rba2779/rba2779/chunklist_w1579484787.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/07/rede-tv-abratel.png" group-title="TV", REDE TV - TV ASSISTA
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/redetv_45cbe19f_90b59ce6156d00d31b0a38d65ce5c6cd2a40faaf/270p_930kbit/chunklist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/redetv_45cbe19f_2fde9fbb8135f1fe3b06e333532c5f43b07d7248/270p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="TV", NOVO TEMPO - TV ASSISTA
@@ -37,11 +37,11 @@ http://rbc.directradios.com:1935/rbc/smil:rbc.smil/chunklist_w1326665201_b109600
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="TV", TV CAMARA - TV ASSISTA
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tvcamara_3aed9b03_fee83c3c479dc47d3df77b8595449f9015eb0f7a/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tvcamara_3aed9b03_c2d9d254429f2515799e71a5dae4ef97d6df0fef/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="TV ", ANIMAL PLANET - TV ASSISTA
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/animalplanet_e114c448_009b99b3f44b9ad2ae99fb8b3b1dff3a1c42f2e7/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/animalplanet_e114c448_2f0de0495847ca7d9d82860312937aecdfa2b825/playlist.m3u8
 
 
 #EXT

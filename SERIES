@@ -6013,3 +6013,236 @@
 </item> 
  
  
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]PRISON BREAK 4ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01 E 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18WwVoQ06s4EqoIYEBxbSHYopiESEI3Er/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PxccwGuXy2Zmq_xW-sA4EJNPD8C3Vh6h/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dk0KKSuqac1SCVbi-NdONA2oza-GiFK3/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w3YkmiJEdbcQNLZkpJGhAANtnDUUge0j/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1owPTJ8RlTV2NYr74YQyp6ozO8xjWVPC-/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ULU8rYxK4p_BvAdQ8SHmHNfA8nAFCk_p/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12q_mWETBMxioOxANFUkEihN_aLvvPAd2/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RM9BI1UlSqGypc3sYlIV-DFIsGRjsYue/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JlZEvw0NqvtIYSzwujyoZvr2gKr3nODq/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QqkcnDgTpYCPgususmKYql7WpygL4MKL/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M7A8tQklkjuDCOjoPu9MybiVBBFORwcu/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1H-5na-zCf4HDM7wx8oUPIqe17sSVXIvS/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16hT65uRZEOVmDEWBOElM-C9eB8frYnAg/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tTx8SxzZVy8kVyPLuM9fuLxXkGJlg8Li/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ln9OPKwWJT8lA1Hpe3KhDKVQJaIvNPFW/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TU7fBpmAOo2FCOXlyaltOt2gEOm17-5Q/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gtZlWYCQCNxSzwXUO6oin1i3BPDAavzN/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_lA8xxt2YktdWcUjTB9l0CL5yDzSIwwb/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k7Kli_vEV1oAgc-X6qP7fhNMB3RaQ09H/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1faJNrpMegogNQ18CZhv_qp_xeo0sSlqT/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ueMpT7Sf1Bo-a-FHYFQv-eNqdxnXze-0/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 23 E 24[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EK5IOkd2TTfaP8Q96uz3rM_8HuVs6gqh/view</link>
+<thumbnail>https://echosrecordbar.co.za/storage/70981/conversions/11686-large.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6b/b4/d7/6bb4d73bad305ba1b4edafac5cedd784.jpg</fanart>
+</item>
+
+
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]PRISON BREAK 5ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZzshJUVZr2hXsBb39tfVvPNekeamD28J/view</link>
+<thumbnail>https://http2.mlstatic.com/prison-break-5-temporada-D_NQ_NP_750817-MLB26353740282_112017-F.jpg</thumbnail>
+<fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2017/04/Prison-Break.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EeMh-xqwq-oa83N8tnBOm9k9kheVWgPi/view</link>
+<thumbnail>https://http2.mlstatic.com/prison-break-5-temporada-D_NQ_NP_750817-MLB26353740282_112017-F.jpg</thumbnail>
+<fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2017/04/Prison-Break.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Fc-bbCzhiZ0MrsqbmOoqc0NbvTbBlGlD/view</link>
+<thumbnail>https://http2.mlstatic.com/prison-break-5-temporada-D_NQ_NP_750817-MLB26353740282_112017-F.jpg</thumbnail>
+<fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2017/04/Prison-Break.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nP8toV623_hnFevegl0HN8mt3gmToYSc/view</link>
+<thumbnail>https://http2.mlstatic.com/prison-break-5-temporada-D_NQ_NP_750817-MLB26353740282_112017-F.jpg</thumbnail>
+<fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2017/04/Prison-Break.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lkOXk7SrmvCqBmI4mw1gI-UZvwPRDvFy/view</link>
+<thumbnail>https://http2.mlstatic.com/prison-break-5-temporada-D_NQ_NP_750817-MLB26353740282_112017-F.jpg</thumbnail>
+<fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2017/04/Prison-Break.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zNXUvyAv7IEyDRMcg2avAaBrwXYLA33w/view</link>
+<thumbnail>https://http2.mlstatic.com/prison-break-5-temporada-D_NQ_NP_750817-MLB26353740282_112017-F.jpg</thumbnail>
+<fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2017/04/Prison-Break.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/115fqWgJ2zhrmKp68yu_5v92gP-sunI0W/view</link>
+<thumbnail>https://http2.mlstatic.com/prison-break-5-temporada-D_NQ_NP_750817-MLB26353740282_112017-F.jpg</thumbnail>
+<fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2017/04/Prison-Break.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1br8YpGPYOeXl5-6Rhlnkzrqi4i1ga7xm/view</link>
+<thumbnail>https://http2.mlstatic.com/prison-break-5-temporada-D_NQ_NP_750817-MLB26353740282_112017-F.jpg</thumbnail>
+<fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2017/04/Prison-Break.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NNOrroW9bUUDnVsXjPwk9fJ2sawUvYak/view</link>
+<thumbnail>https://http2.mlstatic.com/prison-break-5-temporada-D_NQ_NP_750817-MLB26353740282_112017-F.jpg</thumbnail>
+<fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2017/04/Prison-Break.jpg</fanart>
+</item>
+ 
+ 

@@ -6873,4 +6873,83 @@
 </item>
  
  
+<?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]OS SAQUEADORES 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LatnbPA54yb8FlZcr60MJbYGRVt_VqgH/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rENVky9lm8nP2JAX5cmV9J4HD6R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xQ8cnYVWZDdDxpxpdRI0wjFpsPy.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PGLbK47CpppyOJyH_HBB7xzOsF8tTQtI/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rENVky9lm8nP2JAX5cmV9J4HD6R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xQ8cnYVWZDdDxpxpdRI0wjFpsPy.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12ABnbHrLRkHGF2g-zHPLqwqz-uRxeFVf/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rENVky9lm8nP2JAX5cmV9J4HD6R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xQ8cnYVWZDdDxpxpdRI0wjFpsPy.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15tV29cLvSS3qT9EwL8aj1KpHW8MZA2sY/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rENVky9lm8nP2JAX5cmV9J4HD6R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xQ8cnYVWZDdDxpxpdRI0wjFpsPy.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZPgxmltTMCX_dcrMVWQpUkpJt97w1KHR/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rENVky9lm8nP2JAX5cmV9J4HD6R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xQ8cnYVWZDdDxpxpdRI0wjFpsPy.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a_VKnft4mupEpfas_3CDU6ZPs2SmvefX/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rENVky9lm8nP2JAX5cmV9J4HD6R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xQ8cnYVWZDdDxpxpdRI0wjFpsPy.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15V4FeM99PIR-e1OV6x3BtjLNRL6-jCHf/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rENVky9lm8nP2JAX5cmV9J4HD6R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xQ8cnYVWZDdDxpxpdRI0wjFpsPy.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FMHaNAOalFLTJmZdcue0Vs_tzGn2DiGz/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rENVky9lm8nP2JAX5cmV9J4HD6R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xQ8cnYVWZDdDxpxpdRI0wjFpsPy.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11c7zo6jdwI5CaI4_LtHuzDTqnL9pvfiG/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rENVky9lm8nP2JAX5cmV9J4HD6R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xQ8cnYVWZDdDxpxpdRI0wjFpsPy.jpg</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sZb2-RTqnILM2GViLd0tLIjrg9_vwv7X/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rENVky9lm8nP2JAX5cmV9J4HD6R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xQ8cnYVWZDdDxpxpdRI0wjFpsPy.jpg</fanart>
+</item> 
+ 
+ 
+ 
  

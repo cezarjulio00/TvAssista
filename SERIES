@@ -6951,5 +6951,67 @@
 </item> 
  
  
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]LA CASA DE PAPEL 4ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18u_vQINqwJBGmWXQ4JDpo4_tdpMo9xkw/view</link>
+<thumbnail>https://archive.org/download/365078b665/365078b665.jpg</thumbnail>
+<fanart>https://icdn2.digitaltrends.com/image/digitaltrends_es/casa-de-papel-4-2.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JvpaGbmStMPqsJ_TGTisn2Uc5A7w-DEO/view</link>
+<thumbnail>https://archive.org/download/365078b665/365078b665.jpg</thumbnail>
+<fanart>https://icdn2.digitaltrends.com/image/digitaltrends_es/casa-de-papel-4-2.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IKNccL7MKVRJUsalK2YOshqVrMEx6txZ/view</link>
+<thumbnail>https://archive.org/download/365078b665/365078b665.jpg</thumbnail>
+<fanart>https://icdn2.digitaltrends.com/image/digitaltrends_es/casa-de-papel-4-2.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ab1Cnj4kO20cpzC-MLoOdaspx5905W7f/view</link>
+<thumbnail>https://archive.org/download/365078b665/365078b665.jpg</thumbnail>
+<fanart>https://icdn2.digitaltrends.com/image/digitaltrends_es/casa-de-papel-4-2.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JHPuTjqaJWOnvQeLXjtPWEdTV8uhLYji/view</link>
+<thumbnail>https://archive.org/download/365078b665/365078b665.jpg</thumbnail>
+<fanart>https://icdn2.digitaltrends.com/image/digitaltrends_es/casa-de-papel-4-2.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KXittfcBXcWt4utXP_tbL5faHs29vd48/view</link>
+<thumbnail>https://archive.org/download/365078b665/365078b665.jpg</thumbnail>
+<fanart>https://icdn2.digitaltrends.com/image/digitaltrends_es/casa-de-papel-4-2.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17osllKYDIacMW7eRJd8-lTI0uSsY1dju/view</link>
+<thumbnail>https://archive.org/download/365078b665/365078b665.jpg</thumbnail>
+<fanart>https://icdn2.digitaltrends.com/image/digitaltrends_es/casa-de-papel-4-2.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iZSFhIFyIcWuPa1pFtYo3-5eBRrDBM0T/view</link>
+<thumbnail>https://archive.org/download/365078b665/365078b665.jpg</thumbnail>
+<fanart>https://icdn2.digitaltrends.com/image/digitaltrends_es/casa-de-papel-4-2.jpg</fanart>
+</item>
  
  

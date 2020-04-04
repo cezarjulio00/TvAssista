@@ -3136,7 +3136,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]BAD BOYS 3[/B][/COLOR] [COLOR yellow][B]*[/B][/COLOR]</title>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]BAD BOYS 3 LEG[/B][/COLOR] [COLOR yellow][B]*[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WLy3ysoP5TPYpZ7P2gN1FhGN-X8x9mBU/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Y0NQuB8cMZlmgBe90BOlMoFMSX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/upUy2QhMZEmtypPW3PdieKLAHxh.jpg</fanart>
@@ -4098,4 +4098,12 @@
 <date>2015</date>
 </item>
 
+<item>
+<title>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]BAD BOYS 3 (CINEMA)[/B][/COLOR] [COLOR yellow][B]*[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WcjsSb3mu9e_MXqI24A916QrkzIcgnRM/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTKl7J5OWnsZSTRiKPIvPx4ngBG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/iUspPEAjhUUrLYKntTnKupt3eqV.jpg</fanart>
+<info>Armando é um assassino de sangue frio com uma natureza cruel e provocadora. Ele está comprometido com o trabalho do cartel e é enviado por sua mãe para matar Mike (Smith). Nuñez assumirá o papel de Rita, psicóloga criminal durona e engraçada que é recém-nomeada chefe da AMMO e é ex-namorada de Mike.</info>
+<date>2020</date>
+</item>
 

@@ -7562,3 +7562,300 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wB285Vsu4xaaNXpwGi2WFm8kA6D.jpg</fanart>
 </item>
  
+
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]PLANETA TERRA 2ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vFk1NgJR1zKoeWNEWCPHcasq6YF2EqOF/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTvArgUjEUDxYMqJHSwVlrn1Cjk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/evJ4bGkatjmDcAlF4n7lF9pXdZr.jpg</fanart>
+</item>
+ 
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JZtVwMT-pYB8kbQl8_2kGgHaJA-wkWLp/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTvArgUjEUDxYMqJHSwVlrn1Cjk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/evJ4bGkatjmDcAlF4n7lF9pXdZr.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A_Sfeea6NFEa3WPHAMPYkHHXfGRd4NV1/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTvArgUjEUDxYMqJHSwVlrn1Cjk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/evJ4bGkatjmDcAlF4n7lF9pXdZr.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-7-gpq-Wy-9HqQAOyBl1xErCz4QZpFqQ/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTvArgUjEUDxYMqJHSwVlrn1Cjk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/evJ4bGkatjmDcAlF4n7lF9pXdZr.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1E-uQjHZIhAAvF4XYCO_8VfbIR-d5HQFW/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTvArgUjEUDxYMqJHSwVlrn1Cjk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/evJ4bGkatjmDcAlF4n7lF9pXdZr.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EILLQDurL2ri4ttnS96SOG4u_v48Tava/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTvArgUjEUDxYMqJHSwVlrn1Cjk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/evJ4bGkatjmDcAlF4n7lF9pXdZr.jpg</fanart>
+</item>
+ 
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]ARROW 7ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JcVjfwl3uJ-wAWBkA4lSY0qsUsxhEvxk/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WjfJT0W1xtvx33lNZ1yjre7mehMSkjAp/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ghG4nqX6XsMA4DAlz5uz1jaHwopBfJ-r/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17dztuiUkOhTcp3wGdwE8LPXFMjILpCcB/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A1CXXNcpz2LmeinoqfFXO8Ey0ylsT-E3/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jmjIrz1XdvaA0-3s6IULr8BHGAUASdaJ/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16Uq6xkcke2-KrzIs80D4pXH4hSorewTk/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10P3-HPBgHp3sruTIadMBWkTylnFs0Y_o/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nsrBSGwxFAfQx0IwaGo19e_00wzxVt8C/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GA6jSFacXqJAcLZY4VV0iUm9yRFJLt-g/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BycVQuWGgVbL95pqQt-KG7BjhSjxJAlM/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vdvB4zypR2KLMd7mKbQO-vcxgrToWYkz/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ud2zQpifgjyT2ABQ8ycVX6Cu0PgF6cGq/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ngwha5PZw9osEzqF36Qr8KoSMdpV1JsU/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Zz19XOkfNKTLM6k_uvWNQKX_oV7vD_v5/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1otkq-DvSme1ZPDi3aCxmZrOEHOyMxvuC/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IBV_wxTA8Mgisu8msREt1Uj5GDM7-S2Z/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16Pfe6lkXiQg1guZZ5dlwJ8xChG2XmT5e/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1giPsnxzQLiM_TaZjx1FVOtJ4FssvQhL1/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11nHiUW5Q-k0yNl3z8JKATzXCFtdR1Jsr/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 21[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MO4DmevVQHVqU56Y8M9ZUF3wAcr5j0U1/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 22[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_P_0HM9FSRKAhPn1nU5TOn58WLEsoIwG/view</link>
+<thumbnail>https://i.imgur.com/EqNbdoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/dT9BQd1.jpg</fanart>
+</item>
+ 
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]ARROW 8ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17It49yan5qA7hT2qpqEl-6gmFIpWwgwo/view</link>
+<thumbnail>https://i.imgur.com/VGqtuMz.jpg</thumbnail>
+<fanart>https://i.imgur.com/fj6sRWg.png</fanart>
+</item> 
+
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BOcNkk3m73sU1V8qo9CLaFOXHrZugwFC/view</link>
+<thumbnail>https://i.imgur.com/VGqtuMz.jpg</thumbnail>
+<fanart>https://i.imgur.com/fj6sRWg.png</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tqgaLNhYDYzad4oqxocM3jcu-p8lNT51/view</link>
+<thumbnail>https://i.imgur.com/VGqtuMz.jpg</thumbnail>
+<fanart>https://i.imgur.com/fj6sRWg.png</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PZVSgA5cptgt9xZSuzWVRlmj0DLxnHK3/view</link>
+<thumbnail>https://i.imgur.com/VGqtuMz.jpg</thumbnail>
+<fanart>https://i.imgur.com/fj6sRWg.png</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13pmvzGRstz_VA3RiUgJxYbM7bNH_Hq6G/view</link>
+<thumbnail>https://i.imgur.com/VGqtuMz.jpg</thumbnail>
+<fanart>https://i.imgur.com/fj6sRWg.png</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fN-t2mRmoRlF8kX9IL2NTaOR5mcCuS5c/view</link>
+<thumbnail>https://i.imgur.com/VGqtuMz.jpg</thumbnail>
+<fanart>https://i.imgur.com/fj6sRWg.png</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Tg4UpMXk-AgciL8-14HQBheqWOOkh41Q/view</link>
+<thumbnail>https://i.imgur.com/VGqtuMz.jpg</thumbnail>
+<fanart>https://i.imgur.com/fj6sRWg.png</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cl5otk0-lXhfbl3S8O9UZwtz4R9E5yaA/view</link>
+<thumbnail>https://i.imgur.com/VGqtuMz.jpg</thumbnail>
+<fanart>https://i.imgur.com/fj6sRWg.png</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vDpNfl2ZIZgtpOjjU80N98seYC6o0TmH/view</link>
+<thumbnail>https://i.imgur.com/VGqtuMz.jpg</thumbnail>
+<fanart>https://i.imgur.com/fj6sRWg.png</fanart>
+</item> 
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BK4kIM_FvLUn3YcJlEp6dUvvmuzyVwEe/view</link>
+<thumbnail>https://i.imgur.com/VGqtuMz.jpg</thumbnail>
+<fanart>https://i.imgur.com/fj6sRWg.png</fanart>
+</item> 
+ 
+ 

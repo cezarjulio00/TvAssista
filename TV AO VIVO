@@ -5,22 +5,22 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&re
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="TV", GLOBO  - TV ASSISTA
-https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/globosp_cfe21c68_11eec3c52c39806014ac5aacc93f311b6458ce8d/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/globosp_cfe21c68_2166e5f8098304c16792d9d5490245d9a63e92d0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="TV", SBT - TV ASSISTA
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w553137014_b1000000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.melinaalbuquerque.com.br/wp-content/uploads/2019/03/Band.png" group-title="TV", BAND - TV ASSISTA
-https://video01.kshost.com.br/rba2779/rba2779/chunklist_w1579484787.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/band_49e3d046_ffb946fc9210968eb0518e7ee497cd32245ab1e8/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/07/rede-tv-abratel.png" group-title="TV", REDE TV - TV ASSISTA
-https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/redetv_45cbe19f_2fde9fbb8135f1fe3b06e333532c5f43b07d7248/270p/chunklist.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/redetv_45cbe19f_97b00dba5b04a1c3059f87a44a9610baad84b752/270p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="TV", NOVO TEMPO - TV ASSISTA
-http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b2128000_slpor.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tvnovotempo_9ee0df7c_4640bf3828acbcaa5462e1375b7ee9c87245c28e/480p/chunklist.m3u8
 
 
 
@@ -33,15 +33,15 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=
 
 
 #EXTINF:-1 tvg-logo="https://www.imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="TV",  REDE BRASIL DF - TV ASSISTA
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/chunklist_w1326665201_b1096000.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/redebrasil_c2548064_411324c61cb4810c3bfa19a4c847094cdde7202c/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="TV", TV CAMARA - TV ASSISTA
-https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tvcamara_3aed9b03_c2d9d254429f2515799e71a5dae4ef97d6df0fef/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/tvcamara_3aed9b03_faafb09c333b074515542a11c0629e2b2fc8d5fa/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="TV ", ANIMAL PLANET - TV ASSISTA
-https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/animalplanet_e114c448_2f0de0495847ca7d9d82860312937aecdfa2b825/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/animalplanet_e114c448_a42b1deff32ac3584ac25bb97e3b74f22d594e37/playlist.m3u8
 
 
 #EXT

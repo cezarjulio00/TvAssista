@@ -20,7 +20,7 @@ https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/redetv_45cbe19f_97b00dba5b04a
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="TV", NOVO TEMPO - TV ASSISTA
-https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tvnovotempo_9ee0df7c_4640bf3828acbcaa5462e1375b7ee9c87245c28e/480p/chunklist.m3u8
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
 
 
 

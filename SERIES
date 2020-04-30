@@ -9446,3 +9446,227 @@
 <thumbnail>https://i.imgur.com/GwLgiHW.jpg</thumbnail>
 <fanart>https://i.imgur.com/Csz3hXX.jpg</fanart>
 </item>
+ 
+ 
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]GAME OF THRONES 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ks-d8sFVEYQ96Co2lMLvJN5nFyV6zzob/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/c3pUHUXVuuc0WbrepzAQbTUfnuI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MSCO3jMxQsgF8GMFJrCaYclmUUBjC_Yi/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/c3pUHUXVuuc0WbrepzAQbTUfnuI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZVGJ8RoUaOMrYWI547ZN1pnvrqxm1GRk/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/c3pUHUXVuuc0WbrepzAQbTUfnuI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16GZhkD71snyCC2BKnKm5Sf9OWekpbiVF/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/c3pUHUXVuuc0WbrepzAQbTUfnuI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pFrNuNfpfsD3F7mKwQ56x6j_YXojvq4P/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/c3pUHUXVuuc0WbrepzAQbTUfnuI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QJ0hVJ2sl5aGfab5s0wjWLR6gPJM00g1/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/c3pUHUXVuuc0WbrepzAQbTUfnuI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ldseqKut32ZfVMCQamlS0Rk-9ovVxyH8/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/c3pUHUXVuuc0WbrepzAQbTUfnuI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11fd-R78H7VGEdj0mlDh1CSxfOZ5p0Y4g/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/c3pUHUXVuuc0WbrepzAQbTUfnuI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cFXwIBp-ImXOl5HGtMw9vjAzpKT8cJ-B/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/c3pUHUXVuuc0WbrepzAQbTUfnuI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d3OsoK8WYTnLsJzXPQmG1tCfJgFR7-nV/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/c3pUHUXVuuc0WbrepzAQbTUfnuI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]RAGNAROK 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Bf1IX1MmleYvcPd55n-24qlUBGLxCZHX/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cmNaLE7SGInLaifymnTB3JClnfT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Agh0Jw8YOLERdAoHnKCFvaL1BQXt-Iwi/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cmNaLE7SGInLaifymnTB3JClnfT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DwAcoUJPAvBNSMSRxGPVTwpzwNHTD97R/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cmNaLE7SGInLaifymnTB3JClnfT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EQV8SZb00LMu4WhoHTDT2p8nI2XNEp8Z/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cmNaLE7SGInLaifymnTB3JClnfT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wVtyEBh-9Fr_C8x0IN-EpIeN7WEtE_zK/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cmNaLE7SGInLaifymnTB3JClnfT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y7YU8Tte4q40IKo0KtvDRG0Qw_gxcMM3/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cmNaLE7SGInLaifymnTB3JClnfT.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+  
+ <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]O ULTIMO REINO 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_KAOHEdSkh7NXr-xHbq7Vg23RIhMTS-d/view</link>
+<thumbnail>https://i.imgur.com/VKtP6s6.jpg</thumbnail>
+<fanart>https://i.imgur.com/tLjx4jT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ho9y3TXK9VAzgBHbTsyXM3ciQ3XwlrwZ/view</link>
+<thumbnail>https://i.imgur.com/VKtP6s6.jpg</thumbnail>
+<fanart>https://i.imgur.com/tLjx4jT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_0rfWaiWezV3Ci6f79FHnyjQEEhszb3f/view</link>
+<thumbnail>https://i.imgur.com/VKtP6s6.jpg</thumbnail>
+<fanart>https://i.imgur.com/tLjx4jT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cFHHai5NKpVov-XsBDTWK7GZJCAeuAuF/view</link>
+<thumbnail>https://i.imgur.com/VKtP6s6.jpg</thumbnail>
+<fanart>https://i.imgur.com/tLjx4jT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1erCIIEvrV0-4VAAC4wPh1mpoDxyNwKeu/view</link>
+<thumbnail>https://i.imgur.com/VKtP6s6.jpg</thumbnail>
+<fanart>https://i.imgur.com/tLjx4jT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XaqI7bS--u05iIzoNpl_oIxIyVpT9ubd/view</link>
+<thumbnail>https://i.imgur.com/VKtP6s6.jpg</thumbnail>
+<fanart>https://i.imgur.com/tLjx4jT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cytYWCyv1D-LpeM-HpVyslgQsl-gNDmZ/view</link>
+<thumbnail>https://i.imgur.com/VKtP6s6.jpg</thumbnail>
+<fanart>https://i.imgur.com/tLjx4jT.jpg</fanart>
+</item>
+ 
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16sOsmCaU7zdJDjtH55ZYWaqvTXOoU8w5/view</link>
+<thumbnail>https://i.imgur.com/VKtP6s6.jpg</thumbnail>
+<fanart>https://i.imgur.com/tLjx4jT.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 

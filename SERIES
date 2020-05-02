@@ -9828,3 +9828,112 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/2CIgi2lST8CCTMDYAkZLG9gDQuc.jpg</fanart>
 </item>
  
+<?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+    <channels>
+</channels><channel>
+<name>[COLOR deeppink][B]DEMOLIDOR 1ªTemporada[/B][/COLOR]</name>********************************************************************************
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aqIISvGeUY1h-nyZH4tS0PI4zK1MBJxf/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16ExbkisFCc4gz2_2R60oOh5V9T6htQGE/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-PG8OyDskkJKwtBprslvnhPD9GPL7HZG/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lbEm24uiRMeVnQ_2jitbDfN90bdUmHvE/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qf_nlpuY6mPbZm-UIU9-Jyl4R_tzoNF2/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tO-su42a13egsNVdjEyQvH-DlJxGcdoj/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-cuedx4ZBhkIJ_lGNNfJXtLcnVZfYT-H/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CUhzO-vr2MyhmwKk2clbclhuervB1cng/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZoiNeNNtPO7IlqJP3VKT5myS8ve-Dkr8/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-9XTK1yj-bxHjQGoDFWqqsxCaVECk9nJ/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13h3i9Fo-8GzpeRGdZS1DCLjw9_n10uJN/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jXvNkSwYfWKZdYdmVIA_sZ-mrO5_sRzy/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NhscmShFiagNTXQI6MqtY90eoR09fhbH/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mFg28Xslo8sMMRft7gxqVudCwkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6OMCVG4xUzbGCxXRkwy9cn5BbKe.jpg</fanart>
+</item>
+ 
+ 
